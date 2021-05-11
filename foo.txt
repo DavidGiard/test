@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is E607-E011
+
+ Directory of C:\test\testgit
+
+05/11/2021  05:37 PM    <DIR>          .
+05/11/2021  05:37 PM    <DIR>          ..
+05/11/2021  05:37 PM             6,352 .gitignore
+05/11/2021  05:37 PM                 0 foo.txt
+05/11/2021  05:37 PM            11,558 LICENSE
+05/11/2021  05:37 PM                 6 README.md
+               4 File(s)         17,916 bytes
+               2 Dir(s)  134,246,051,840 bytes free
